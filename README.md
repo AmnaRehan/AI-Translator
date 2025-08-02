@@ -1,9 +1,9 @@
 # AI Translator App
 A fast and accurate AI-powered text translation app built with LangChain, Groq, and Streamlit. Translate text into multiple languages in real-time with a clean and interactive user interface.
 
-## Demo: https://amnarehan-ai-translator-app-8bhfwt.streamlit.app/
+### Demo: https://amnarehan-ai-translator-app-8bhfwt.streamlit.app/
 
-## Features
+### Features
 Translate text into English, Urdu, Arabic, Spanish, French, and Japanese
 
 Powered by LLaMA 3 via Groq for low-latency streaming responses
